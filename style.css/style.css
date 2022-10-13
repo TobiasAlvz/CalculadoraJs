@@ -148,13 +148,13 @@ input {
 }
 a {
   text-decoration: none;
-  color: white;
+  color: #ffe600;
   transition: 0.5s;
 }
 a:hover {
-  color: #ffbf00;
+  color: #ff9d00;
 }
 
 .footer > span {
-  color: #fc0a4aa4;
+  color: #fc0a4be0;
 }
