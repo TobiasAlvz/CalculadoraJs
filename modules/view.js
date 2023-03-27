@@ -26,7 +26,6 @@ const copy = document
 const switchTheme = document
   .getElementById("themeSwitcher")
   .addEventListener("click", function () {
-    document.body.classList.toggle("isDark");
     document.body.classList.toggle("isWhite");
   });
 
